@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/christianheldingsorensen/AndroidStudioProjects/IndoorPosBach/app/build/intermediates/exploded-aar/com.indooratlas.android/indooratlas-android-sdk/2.0.0-beta/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c4342d1e61d14efba6c9b073ae1d7b4086ddfe">
+        <dex dex="/Users/christianheldingsorensen/AndroidStudioProjects/IndoorPosBach/app/build/intermediates/pre-dexed/debug/classes-7262e140eec9fab27da5ee20489fcdbede77e537.jar" />
+    </item>
+    <item
+        jar="/Users/christianheldingsorensen/AndroidStudioProjects/IndoorPosBach/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/christianheldingsorensen/AndroidStudioProjects/IndoorPosBach/app/build/intermediates/pre-dexed/debug/classes-ad8721dbf77c897755835d9a0a18702ec2593b96.jar" />
+    </item>
+    <item
+        jar="/Users/christianheldingsorensen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/christianheldingsorensen/AndroidStudioProjects/IndoorPosBach/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-9b34f21294723476e145ed324610e85d0e575e60.jar" />
+    </item>
+    <item
+        jar="/Users/christianheldingsorensen/AndroidStudioProjects/IndoorPosBach/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/christianheldingsorensen/AndroidStudioProjects/IndoorPosBach/app/build/intermediates/pre-dexed/debug/classes-5e45912cf135c18f927ef2f24611bfa43177a117.jar" />
+    </item>
+    <item
+        jar="/Users/christianheldingsorensen/AndroidStudioProjects/IndoorPosBach/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/christianheldingsorensen/AndroidStudioProjects/IndoorPosBach/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-d6141b8d99cf0f161812d9ecb92ef1a0fc4f5a34.jar" />
+    </item>
+
+</items>
